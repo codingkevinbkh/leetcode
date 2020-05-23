@@ -11,10 +11,15 @@ Coding Kevin BKH
 class Solution:
     def reverse(self, x: int) -> int:
         pos_x = abs(x)
-        reverted_x, maximum = 0, 2147483647 # 2**31-1
+        digit_map = {}
+        position = 0
         while pos_x != 0:
-            reverted_x = reverted_x * 10 + pos_x % 10
+            digit_map[position] = pos_x % 10
+            position += 1
             pos_x //= 10
+        reverted_x, maximum = 0, 2147483647 # 2**31-1
+        for i in range(position):
+            reverted_x = reverted_x * 10 + digit_map[i]
             if reverted_x > maximum:
                 return 0
         return reverted_x if x >= 0 else -reverted_x
@@ -22,10 +27,11 @@ class Solution:
 ### solution 2 ###
 class Solution:
     def reverse(self, x: int) -> int:
-        if x == 0:
-            return 0
-        maximum = 2147483647 # 2**31-1
-        reverted_x = int(str(abs(x))[::-1].strip("0"))
-        if reverted_x > maximum:
-            return 0
+        pos_x = abs(x)
+        reverted_x, maximum = 0, 2147483647 # 2**31-1
+        while pos_x != 0:
+            reverted_x = reverted_x * 10 + pos_x % 10
+            pos_x //= 10
+            if reverted_x > maximum:
+                return 0
         return reverted_x if x >= 0 else -reverted_x
