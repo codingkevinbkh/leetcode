@@ -16,8 +16,8 @@ Coding Kevin BKH
 class Solution:
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
         carry = 0
-        answer_node = ListNode()
-        current_node = answer_node
+        dummy = ListNode()
+        curr = dummy
         while l1 != None or l2 != None:
             if l1 != None:
                 carry += l1.val
@@ -25,9 +25,9 @@ class Solution:
             if l2 != None:
                 carry += l2.val
                 l2 = l2.next
-            current_node.next = ListNode(carry % 10)
+            curr.next = ListNode(carry % 10)
             carry = 1 if carry >= 10 else 0
-            current_node = current_node.next
+            curr = curr.next
         if carry != 0:
-            current_node.next = ListNode(carry)
-        return answer_node.next
+            curr.next = ListNode(carry)
+        return dummy.next
