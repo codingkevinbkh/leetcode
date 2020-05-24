@@ -34,10 +34,10 @@ class Solution:
             return values[-1]/1.0
 
 ### solution 2 ###
-import math
-
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+        import math
+
         a, b = nums1, nums2
         if len(nums1) > len(nums2):
             a, b = nums2, nums1

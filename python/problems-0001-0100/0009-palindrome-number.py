@@ -8,10 +8,10 @@ Coding Kevin BKH
 '''
 
 ### solution 1 ###
-import math
-
 class Solution:
     def isPalindrome(self, x: int) -> bool:
+        import math
+
         if x < 0:
             return False
         if x == 0:
