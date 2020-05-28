@@ -23,9 +23,7 @@ class Solution:
             for node in head.children:
                 traverse(node)
 
+        nodes = []
         if root:
-            nodes = []
             traverse(root)
-            return nodes
-        else:
-            return None
+        return nodes
