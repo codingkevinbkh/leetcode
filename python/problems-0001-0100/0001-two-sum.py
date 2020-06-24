@@ -1,10 +1,10 @@
 '''
-歡迎訂閱我們的Youtube頻道Coding Kevin BKH，影片中會使用動畫解釋演算法，同時也有Leetcode實戰解題。
-Check out our Youtube channel, we explain the solutions step by step. Please subscribe!
-The audio is in Mandarin
+歡迎訂閱我們的YouTube頻道Coding Kevin BKH，影片中會使用動畫解釋演算法，同時也有LeetCode實戰解題。
+Check out our YouTube channel, we explain the solutions step by step with animation.
+Please subscribe!
 
 Coding Kevin BKH
-
+https://youtu.be/fNSFSUfBILY
 '''
 
 ### solution 1 ###
