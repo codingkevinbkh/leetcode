@@ -17,6 +17,12 @@ Check out our YouTube channel, we explain the solutions step by step with animat
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Video](https://youtu.be/bxWrnTLStkg) | [Python](/python/problems-0001-0100/0006-zigzag-conversion.py) | Medium | 1. Pointer |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Video](https://youtu.be/h_VY1eokFBc) | [Python](/python/problems-0001-0100/0021-merge-two-sorted-lists.py) | Easy | 1. Linked List <br> 2. Resursion |
 
+### Problem 401-500
+
+| ID | Problem | YouTube | Solution | Difficulty | Method |
+| -- | ------- | ------- | -------- | ---------- | ------ |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Video](https://youtu.be/_l5aRR04Yuc) | [Python](/python/problems-0401-0500/0485-max-consecutive-ones.py) | Easy | 1. Pointer <br> 2. String |
+
 ### Problem 1401-1500
 
 | ID | Problem | YouTube | Solution | Difficulty | Method |
