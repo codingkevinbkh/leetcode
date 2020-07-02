@@ -29,3 +29,4 @@ Check out our YouTube channel, we explain the solutions step by step with animat
 | ID | Problem | YouTube | Solution | Difficulty | Method |
 | -- | ------- | ------- | -------- | ---------- | ------ |
 | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [Video](https://youtu.be/d5s_fkIEAPg) | [Python](/python/problems-1401-1500/1446-consecutive-characters.py) | Easy | 1. Pointer |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Video](https://youtu.be/wVztKtQ5z6A) | [Python](/python/problems-1401-1500/1480-running-sum-of-1d-array.py) | Easy | 1. Pointer |
