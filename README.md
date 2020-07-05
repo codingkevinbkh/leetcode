@@ -24,6 +24,12 @@ Check out our YouTube channel, we explain the solutions step by step with animat
 | -- | ------- | ------- | -------- | ---------- | ------ |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Video](https://youtu.be/_l5aRR04Yuc) | [Python](/python/problems-0401-0500/0485-max-consecutive-ones.py) | Easy | 1. Pointer <br> 2. String |
 
+### Problem 801-900
+
+| ID | Problem | YouTube | Solution | Difficulty | Method |
+| -- | ------- | ------- | -------- | ---------- | ------ |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Video](https://youtu.be/6fWH6Laiyzw) | [Python](/python/problems-0801-0900/0876-middle-of-the-linked-list.py) | Easy | 1. Linked List |
+
 ### Problem 1401-1500
 
 | ID | Problem | YouTube | Solution | Difficulty | Method |
