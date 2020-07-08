@@ -18,6 +18,12 @@ Check out our YouTube channel, we explain the solutions step by step with animat
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Video](https://youtu.be/h_VY1eokFBc) | [Python](/python/problems-0001-0100/0021-merge-two-sorted-lists.py) | Easy | 1. Linked List <br> 2. Resursion |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Video](https://youtu.be/GqeQFpG-7q0) | [Python](/python/problems-0001-0100/0036-valid-sudoku.py) | Medium | 1. Array |
 
+### Problem 101-200
+
+| ID | Problem | YouTube | Solution | Difficulty | Method |
+| -- | ------- | ------- | -------- | ---------- | ------ |
+| 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [Video](https://youtu.be/qN0qvtFbCYw) | [Python](/python/problems-0101-0200/0164-maximum-gap.py) | Hard | 1. Grouping |
+
 ### Problem 401-500
 
 | ID | Problem | YouTube | Solution | Difficulty | Method |
