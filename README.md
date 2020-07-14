@@ -41,5 +41,6 @@ Check out our YouTube channel, we explain the solutions step by step with animat
 | ID | Problem | YouTube | Solution | Difficulty | Method |
 | -- | ------- | ------- | -------- | ---------- | ------ |
 | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [Video](https://youtu.be/d5s_fkIEAPg) | [Python](/python/problems-1401-1500/1446-consecutive-characters.py) | Easy | 1. Pointer |
+| 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Video](https://youtu.be/MHSgk50ps70) | [Python](/python/problems-1401-1500/1450-number-of-students-doing-homework-at-a-given-time.py) | Easy | 1. Pointer |
 | 1464 | [Maximum Product of Two Elements in an Array ](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Video](https://youtu.be/UJMbLuOaeqg) | [Python](/python/problems-1401-1500/1464-maximum-product-of-two-elements-in-an-array.py) | Easy | 1. Pointer |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Video](https://youtu.be/wVztKtQ5z6A) | [Python](/python/problems-1401-1500/1480-running-sum-of-1d-array.py) | Easy | 1. Pointer |
