@@ -36,6 +36,12 @@ Check out our YouTube channel, we explain the solutions step by step with animat
 | -- | ------- | ------- | -------- | ---------- | ------ |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Video](https://youtu.be/6fWH6Laiyzw) | [Python](/python/problems-0801-0900/0876-middle-of-the-linked-list.py) | Easy | 1. Linked List |
 
+### Problem 1301-1400
+
+| ID | Problem | YouTube | Solution | Difficulty | Method |
+| -- | ------- | ------- | -------- | ---------- | ------ |
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Video](https://youtu.be/xdpp9tH_sPQ) | [Python](/python/problems-1301-1400/1342-number-of-steps-to-reduce-a-number-to-zero.py) | Easy | 1. Math <br> 2. Bit Manipulation |
+
 ### Problem 1401-1500
 
 | ID | Problem | YouTube | Solution | Difficulty | Method |
