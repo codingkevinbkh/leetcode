@@ -36,6 +36,12 @@ Check out our YouTube channel, we explain the solutions step by step with animat
 | -- | ------- | ------- | -------- | ---------- | ------ |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Video](https://youtu.be/6fWH6Laiyzw) | [Python](/python/problems-0801-0900/0876-middle-of-the-linked-list.py) | Easy | 1. Linked List |
 
+### Problem 1201-1300
+
+| ID | Problem | YouTube | Solution | Difficulty | Method |
+| -- | ------- | ------- | -------- | ---------- | ------ |
+| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Video](https://youtu.be/db7BLKRPA0A) | [Python](/python/problems-1201-1300/1295-find-numbers-with-even-number-of-digits.py) | Easy | 1. Math <br> 2. String |
+
 ### Problem 1301-1400
 
 | ID | Problem | YouTube | Solution | Difficulty | Method |
