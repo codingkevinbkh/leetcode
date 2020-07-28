@@ -36,6 +36,12 @@ Check out our YouTube channel, we explain the solutions step by step with animat
 | -- | ------- | ------- | -------- | ---------- | ------ |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Video](https://youtu.be/6fWH6Laiyzw) | [Python](/python/problems-0801-0900/0876-middle-of-the-linked-list.py) | Easy | 1. Linked List |
 
+### Problem 1101-1200
+
+| ID | Problem | YouTube | Solution | Difficulty | Method |
+| -- | ------- | ------- | -------- | ---------- | ------ |
+| 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [Video](https://youtu.be/w-20La0b2F4) | [Python](/python/problems-1101-1200/1128-number-of-equivalent-domino-pairs.py) | Easy | 1. Hash Table |
+
 ### Problem 1201-1300
 
 | ID | Problem | YouTube | Solution | Difficulty | Method |
