@@ -30,6 +30,12 @@ Check out our YouTube channel, we explain the solutions step by step with animat
 | -- | ------- | ------- | -------- | ---------- | ------ |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Video](https://youtu.be/_l5aRR04Yuc) | [Python](/python/problems-0401-0500/0485-max-consecutive-ones.py) | Easy | 1. Pointer <br> 2. String |
 
+### Problem 701-800
+
+| ID | Problem | YouTube | Solution | Difficulty | Method |
+| -- | ------- | ------- | -------- | ---------- | ------ |
+| 796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | [Video](https://youtu.be/zqNewqfahcY) | [Python](/python/problems-0701-0800/0796-rotate-string.py) | Easy | 1. Shift <br> 2. String |
+
 ### Problem 801-900
 
 | ID | Problem | YouTube | Solution | Difficulty | Method |
