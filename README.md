@@ -42,6 +42,12 @@ Check out our YouTube channel, we explain the solutions step by step with animat
 | -- | ------- | ------- | -------- | ---------- | ------ |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Video](https://youtu.be/6fWH6Laiyzw) | [Python](/python/problems-0801-0900/0876-middle-of-the-linked-list.py) | Easy | 1. Linked List |
 
+### Problem 1001-1100
+
+| ID | Problem | YouTube | Solution | Difficulty | Method |
+| -- | ------- | ------- | -------- | ---------- | ------ |
+| 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [Video](https://youtu.be/iAAZNizsqiM) | [Python](/python/problems-1001-1100/1094-car-pooling.py) | Medium | 1. Sort |
+
 ### Problem 1101-1200
 
 | ID | Problem | YouTube | Solution | Difficulty | Method |
