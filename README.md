@@ -75,3 +75,9 @@ Check out our YouTube channel, we explain the solutions step by step with animat
 | 1464 | [Maximum Product of Two Elements in an Array ](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Video](https://youtu.be/UJMbLuOaeqg) | [Python](/python/problems-1401-1500/1464-maximum-product-of-two-elements-in-an-array.py) | Easy | 1. Pointer |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Video](https://youtu.be/wVztKtQ5z6A) | [Python](/python/problems-1401-1500/1480-running-sum-of-1d-array.py) | Easy | 1. Pointer |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [Video](https://youtu.be/QV5qfVcJUD0) | [Python](/python/problems-1401-1500/1486-xor-operation-in-an-array.py) | Easy | 1. Pointer <br> 2. Bit Manipulation |
+
+### Problem 1501-1600
+
+| ID | Problem | YouTube | Solution | Difficulty | Method |
+| -- | ------- | ------- | -------- | ---------- | ------ |
+| 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Video](https://youtu.be/ryykpSW-g4M) | [Python](/python/problems-1501-1600/1512-number-of-good-pairs.py) | Easy | 1. Hash Table |
