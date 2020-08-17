@@ -24,6 +24,12 @@ Check out our YouTube channel, we explain the solutions step by step with animat
 | -- | ------- | ------- | -------- | ---------- | ------ |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [Video](https://youtu.be/qN0qvtFbCYw) | [Python](/python/problems-0101-0200/0164-maximum-gap.py) | Hard | 1. Grouping |
 
+### Problem 301-400
+
+| ID | Problem | YouTube | Solution | Difficulty | Method |
+| -- | ------- | ------- | -------- | ---------- | ------ |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Video](https://youtu.be/xq_Y_uqpwPs) | [Python](/python/problems-0301-0400/0387-first-unique-character-in-a-string.py) | Easy | 1. Hash Table |
+
 ### Problem 401-500
 
 | ID | Problem | YouTube | Solution | Difficulty | Method |
