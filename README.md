@@ -36,6 +36,12 @@ Check out our YouTube channel, we explain the solutions step by step with animat
 | -- | ------- | ------- | -------- | ---------- | ------ |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Video](https://youtu.be/_l5aRR04Yuc) | [Python](/python/problems-0401-0500/0485-max-consecutive-ones.py) | Easy | 1. Pointer <br> 2. String |
 
+### Problem 501-600
+
+| ID | Problem | YouTube | Solution | Difficulty | Method |
+| -- | ------- | ------- | -------- | ---------- | ------ |
+| 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Video](https://youtu.be/JURjCajbJPU) | [Python](/python/problems-0501-0600/0575-distribute-candies.py) | Easy | 1. Set |
+
 ### Problem 601-700
 
 | ID | Problem | YouTube | Solution | Difficulty | Method |
