@@ -60,6 +60,12 @@ Check out our YouTube channel, we explain the solutions step by step with animat
 | -- | ------- | ------- | -------- | ---------- | ------ |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Video](https://youtu.be/6fWH6Laiyzw) | [Python](/python/problems-0801-0900/0876-middle-of-the-linked-list.py) | Easy | 1. Linked List |
 
+### Problem 901-1000
+
+| ID | Problem | YouTube | Solution | Difficulty | Method |
+| -- | ------- | ------- | -------- | ---------- | ------ |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Video](https://youtu.be/4FBWtr7XFfU) | [Python](/python/problems-0901-1000/0977-squares-of-a-sorted-array.py) | Easy | 1. Sort <br> 2. Two Pointers |
+
 ### Problem 1001-1100
 
 | ID | Problem | YouTube | Solution | Difficulty | Method |
