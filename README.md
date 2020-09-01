@@ -105,3 +105,4 @@ Check out our YouTube channel, we explain the solutions step by step with animat
 | ID | Problem | YouTube | Solution | Difficulty | Method |
 | -- | ------- | ------- | -------- | ---------- | ------ |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Video](https://youtu.be/ryykpSW-g4M) | [Python](/python/problems-1501-1600/1512-number-of-good-pairs.py) | Easy | 1. Hash Table |
+| 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator/) | [Video](https://youtu.be/1gmuCPsD8a4) | [Python](/python/problems-1501-1600/1556-thousand-separator.py) | Easy | 1. Math <br> 2. Pointer |
